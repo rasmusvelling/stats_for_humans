@@ -4,5 +4,6 @@
 
 ## Bucket list
 - [ ] Ridge
-- [x] Quadprog
+- [ ] Quadprog
+- [ ] Parallel
 - [ ] Bayes MCMC
