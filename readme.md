@@ -5,3 +5,4 @@
 ## Bucket list
 - [ ] Ridge
 - [x] Quadprog
+- [ ] Bayes MCMC
